@@ -40,4 +40,4 @@ The `source/` folder lets you read the PLC code directly on GitHub without insta
 ## Contact
 
 - GitHub: [SaifHani](https://github.com/SaifHani)
-- LinkedIn: *add your link here*
+- LinkedIn: www.linkedin.com/in/saif-hany
